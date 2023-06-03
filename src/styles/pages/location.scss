@@ -1,0 +1,76 @@
+.path5{
+    display: block;
+    margin-top: 3.125rem;
+    margin-left: 0.938rem;
+    margin-right: 21.875rem;
+    margin-bottom: 1.915rem;
+}
+.set{
+    font-weight: 700;
+    font-size: 1.875rem;
+    line-height: 2.438rem;
+    color: #EC2578;
+    margin-left:  2.438rem;
+    margin-right:  2.438rem;
+    max-width: 18.563rem;
+    text-align: center;
+    margin-bottom: 1.875rem;
+}
+.cap{
+    font-weight: 600;
+    font-size: 0.875rem;
+    text-align: center;
+    line-height: 1.125rem;
+    max-width: 14.5rem;
+    margin-left: 4.438rem;
+    margin-right: 4.5rem;
+    margin-bottom: 4.938rem;
+    color: #646464;
+}
+.loc{
+    display: block;
+    margin-left: 8.938rem;
+    margin-right: 8.898rem;
+    margin-bottom: 6.25rem;
+}
+.add{
+    display: flex;
+    align-items: center;
+    height: 3.125rem;
+    padding-left: 0.938rem;
+    border: 0.063rem dashed #EC2578;
+    border-radius: 0.25rem;
+    max-width: 17.188rem;
+    padding-top: 0.625rem;
+    padding-bottom: 0.625rem;
+    width: 100%;
+    margin-left: 3.125rem;
+    margin-right: 3.125rem;
+    margin-bottom: 10.438rem;
+    &__image{
+        margin-right: 0.938rem;
+    }
+    &__location{
+        font-weight: 400;
+        font-size: 0.75rem;
+        line-height: 1rem;
+        color: #EC2578;
+    }
+}
+.loc-next{
+    max-width: 19.688rem;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #EC2578;
+    border-radius: 0.25rem;
+    height: 3.125rem;
+    color: white;
+    font-weight: 600;
+    font-size: 1.063rem;
+    line-height: 1.375rem;
+    margin-left: 1.875rem;
+    margin-right: 1.875rem;
+    margin-bottom: 3.125rem;
+}
